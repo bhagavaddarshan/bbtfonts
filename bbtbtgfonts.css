@@ -1,21 +1,21 @@
-<style>
-
 @font-face {
   font-family: 'BBT-TM-Rajendra_Kurinji';
   font-style: normal;
   font-weight: 400;
   src: url('https://raw.githubusercontent.com/bhagavaddarshan/bbtfonts/blob/main/BBT-TM-Rajendra_Kurinji.ttf') format('truetype');
-}@font-face {
+}
+
+@font-face {
   font-family: 'BBT-TM-AdvaitaBold';
   font-style: normal;
   font-weight: 400;
   src: url('https://raw.githubusercontent.com/bhagavaddarshan/bbtfonts/blob/main/BBT-TM-Advaita%20Bold.ttf') format('truetype');
   src: url(fonts/BBT-TM-AdvaitaBold.ttf);
-}@font-face {
+}
+
+@font-face {
   font-family: 'BBT-TM-Rupa-062Regular';
   font-style: normal;
   font-weight: 400;
   src: url('https://raw.githubusercontent.com/bhagavaddarshan/bbtfonts/blob/main/BBT-TM-Rupa-062Regular.otf') format('opentype');
 }
-
-</style>
